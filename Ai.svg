@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Bahnschrift-SemiBold, Bahnschrift;
+        font-size: 91.35px;
+        font-variation-settings: 'wght' 600, 'wdth' 100;
+      }
+
+      .cls-2 {
+        fill: #51b690;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="70" cy="70" r="70"/>
+  <text class="cls-1" transform="translate(27.66 100.93)"><tspan x="0" y="0">Ai</tspan></text>
+</svg>
